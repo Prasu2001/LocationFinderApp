@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409711774040",
+    "project_id": "locationfinder-df368",
+    "storage_bucket": "locationfinder-df368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409711774040:android:e2d2b4bd17e57063ed3d2d",
+        "android_client_info": {
+          "package_name": "com.example.testlocationfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409711774040-io1ooodnilmlphtisaq1hnkotoo61tb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testlocationfinder",
+            "certificate_hash": "892e49476bef3b0656d808b07b23574b58af5229"
+          }
+        },
+        {
+          "client_id": "409711774040-53b55sg5i7dpidshe24k2pp37n5cc09a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchr6sYFT_-O0GGatPDuM9BJ5IhvXptVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409711774040-53b55sg5i7dpidshe24k2pp37n5cc09a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
